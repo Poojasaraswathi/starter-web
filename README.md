@@ -6,4 +6,4 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos
 
-we are testing rebase
+we are testing rebase from remote
