@@ -1,6 +1,6 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
-# changing in my branch
+
 
 # TEAM
 
@@ -15,6 +15,5 @@
     HTML5, CSS3
     jQuery, Modernizr
     
-    html css aws devops enginner
 
 
