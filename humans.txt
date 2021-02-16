@@ -1,6 +1,7 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 #changing in master branch
+#Stash example for branch
 
 
 # TEAM
